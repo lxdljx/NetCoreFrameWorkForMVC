@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <UserSecretsId>aspnet-NETCOREFrameWorkForMVC.mvc-BB8478E8-3C51-449C-A209-0DEBEE1FE1CA</UserSecretsId>
+    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+  </PropertyGroup>
+
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
+  </ItemGroup>
+
+
+  <ItemGroup>
+    <ProjectReference Include="..\NETCOREFrameWorkForMVC.Codefirst\NETCOREFrameWorkForMVC.Codefirst.csproj" />
+    <ProjectReference Include="..\NETCOREFrameWorkForMVC.Logics\NETCOREFrameWorkForMVC.Logics.csproj" />
+    <ProjectReference Include="..\NETCOREFrameWorkForMVC.ViewModels\NETCOREFrameWorkForMVC.ViewModels.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,8 @@
+F:\PersonalWork\NETCOREFrameWorkForMVC\NETCOREFrameWorkForMVC.ViewModels\bin\Debug\netcoreapp2.2\NETCOREFrameWorkForMVC.ViewModels.deps.json
+F:\PersonalWork\NETCOREFrameWorkForMVC\NETCOREFrameWorkForMVC.ViewModels\bin\Debug\netcoreapp2.2\NETCOREFrameWorkForMVC.ViewModels.dll
+F:\PersonalWork\NETCOREFrameWorkForMVC\NETCOREFrameWorkForMVC.ViewModels\bin\Debug\netcoreapp2.2\NETCOREFrameWorkForMVC.ViewModels.pdb
+F:\PersonalWork\NETCOREFrameWorkForMVC\NETCOREFrameWorkForMVC.ViewModels\obj\Debug\netcoreapp2.2\NETCOREFrameWorkForMVC.ViewModels.csproj.CoreCompileInputs.cache
+F:\PersonalWork\NETCOREFrameWorkForMVC\NETCOREFrameWorkForMVC.ViewModels\obj\Debug\netcoreapp2.2\NETCOREFrameWorkForMVC.ViewModels.AssemblyInfoInputs.cache
+F:\PersonalWork\NETCOREFrameWorkForMVC\NETCOREFrameWorkForMVC.ViewModels\obj\Debug\netcoreapp2.2\NETCOREFrameWorkForMVC.ViewModels.AssemblyInfo.cs
+F:\PersonalWork\NETCOREFrameWorkForMVC\NETCOREFrameWorkForMVC.ViewModels\obj\Debug\netcoreapp2.2\NETCOREFrameWorkForMVC.ViewModels.dll
+F:\PersonalWork\NETCOREFrameWorkForMVC\NETCOREFrameWorkForMVC.ViewModels\obj\Debug\netcoreapp2.2\NETCOREFrameWorkForMVC.ViewModels.pdb

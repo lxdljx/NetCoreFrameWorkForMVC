@@ -1,0 +1,9 @@
+F:\PersonalWork\NETCOREFrameWorkForMVC\NETCOREFrameWorkForMVC.Logics\bin\Debug\netcoreapp2.2\NETCOREFrameWorkForMVC.Logics.deps.json
+F:\PersonalWork\NETCOREFrameWorkForMVC\NETCOREFrameWorkForMVC.Logics\bin\Debug\netcoreapp2.2\NETCOREFrameWorkForMVC.Logics.dll
+F:\PersonalWork\NETCOREFrameWorkForMVC\NETCOREFrameWorkForMVC.Logics\bin\Debug\netcoreapp2.2\NETCOREFrameWorkForMVC.Logics.pdb
+F:\PersonalWork\NETCOREFrameWorkForMVC\NETCOREFrameWorkForMVC.Logics\obj\Debug\netcoreapp2.2\NETCOREFrameWorkForMVC.Logics.csprojAssemblyReference.cache
+F:\PersonalWork\NETCOREFrameWorkForMVC\NETCOREFrameWorkForMVC.Logics\obj\Debug\netcoreapp2.2\NETCOREFrameWorkForMVC.Logics.csproj.CoreCompileInputs.cache
+F:\PersonalWork\NETCOREFrameWorkForMVC\NETCOREFrameWorkForMVC.Logics\obj\Debug\netcoreapp2.2\NETCOREFrameWorkForMVC.Logics.AssemblyInfoInputs.cache
+F:\PersonalWork\NETCOREFrameWorkForMVC\NETCOREFrameWorkForMVC.Logics\obj\Debug\netcoreapp2.2\NETCOREFrameWorkForMVC.Logics.AssemblyInfo.cs
+F:\PersonalWork\NETCOREFrameWorkForMVC\NETCOREFrameWorkForMVC.Logics\obj\Debug\netcoreapp2.2\NETCOREFrameWorkForMVC.Logics.dll
+F:\PersonalWork\NETCOREFrameWorkForMVC\NETCOREFrameWorkForMVC.Logics\obj\Debug\netcoreapp2.2\NETCOREFrameWorkForMVC.Logics.pdb

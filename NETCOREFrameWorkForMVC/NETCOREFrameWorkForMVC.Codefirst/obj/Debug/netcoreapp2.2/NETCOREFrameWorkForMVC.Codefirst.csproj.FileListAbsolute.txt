@@ -1,0 +1,10 @@
+F:\PersonalWork\NETCOREFrameWorkForMVC\NETCOREFrameWorkForMVC.Codefirst\bin\Debug\netcoreapp2.2\NETCOREFrameWorkForMVC.Codefirst.deps.json
+F:\PersonalWork\NETCOREFrameWorkForMVC\NETCOREFrameWorkForMVC.Codefirst\bin\Debug\netcoreapp2.2\NETCOREFrameWorkForMVC.Codefirst.dll
+F:\PersonalWork\NETCOREFrameWorkForMVC\NETCOREFrameWorkForMVC.Codefirst\obj\Debug\netcoreapp2.2\NETCOREFrameWorkForMVC.Codefirst.csproj.CoreCompileInputs.cache
+F:\PersonalWork\NETCOREFrameWorkForMVC\NETCOREFrameWorkForMVC.Codefirst\obj\Debug\netcoreapp2.2\NETCOREFrameWorkForMVC.Codefirst.AssemblyInfoInputs.cache
+F:\PersonalWork\NETCOREFrameWorkForMVC\NETCOREFrameWorkForMVC.Codefirst\obj\Debug\netcoreapp2.2\NETCOREFrameWorkForMVC.Codefirst.AssemblyInfo.cs
+F:\PersonalWork\NETCOREFrameWorkForMVC\NETCOREFrameWorkForMVC.Codefirst\bin\Debug\netcoreapp2.2\NETCOREFrameWorkForMVC.Codefirst.runtimeconfig.json
+F:\PersonalWork\NETCOREFrameWorkForMVC\NETCOREFrameWorkForMVC.Codefirst\bin\Debug\netcoreapp2.2\NETCOREFrameWorkForMVC.Codefirst.runtimeconfig.dev.json
+F:\PersonalWork\NETCOREFrameWorkForMVC\NETCOREFrameWorkForMVC.Codefirst\bin\Debug\netcoreapp2.2\NETCOREFrameWorkForMVC.Codefirst.pdb
+F:\PersonalWork\NETCOREFrameWorkForMVC\NETCOREFrameWorkForMVC.Codefirst\obj\Debug\netcoreapp2.2\NETCOREFrameWorkForMVC.Codefirst.dll
+F:\PersonalWork\NETCOREFrameWorkForMVC\NETCOREFrameWorkForMVC.Codefirst\obj\Debug\netcoreapp2.2\NETCOREFrameWorkForMVC.Codefirst.pdb
